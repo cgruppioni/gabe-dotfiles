@@ -1,0 +1,1 @@
+/Users/caseygruppioni/.dotfiles/zsh/aliases.zsh

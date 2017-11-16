@@ -1,0 +1,1 @@
+/Users/caseygruppioni/.dotfiles/zsh/options.zsh

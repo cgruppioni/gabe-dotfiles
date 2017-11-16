@@ -1,0 +1,1 @@
+/Users/caseygruppioni/.dotfiles/tag-haskell/zsh/haskell.zsh
